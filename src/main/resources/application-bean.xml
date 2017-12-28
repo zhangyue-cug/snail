@@ -4,5 +4,6 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<bean id="hello" class="org.snail.study.HelloImpl" />
+	<bean id="hello1" class="org.snail.study.HelloImpl" />
 
 </beans>
